@@ -27,8 +27,7 @@ That path gave me something I consider my biggest strength: I don't just write c
 
 Solo-built, end to end: React + TypeScript frontend, Python backend with JWT auth and resilience patterns (circuit breaker, retry, timeout), SQL Server, Docker, structured logging, and documented architecture decisions (ADRs).
 
-The source is proprietary, so I wrote a full technical case study covering the architecture, key decisions, and lessons learned:
-➡️ **[Read the case study](LINK_TO_CASE_STUDY_REPO)**
+The source is proprietary, so I wrote a full technical case study covering the architecture, key decisions, and lessons learned.
 
 ### ⚡ Low-Code at Scale — Power Platform Portfolio
 *25+ business applications for a state government agency*
@@ -41,7 +40,6 @@ This is where I learned the discipline that carries into my pro-code work: under
 *Turn-based dungeon crawler RPG for Android — Godot 4 / GDScript*
 
 A shipped personal project (v1.5): turn-based combat with visual feedback, dungeon map, inventory, shop, save/load system, difficulty scaling, custom UI theme, and Android export. Built with strict scope discipline — planned slices, small commits, features deliberately deferred to v2.
-➡️ **[Repository](LINK_TO_GAME_REPO)** · **[Play it on itch.io](OPTIONAL_ITCH_LINK)**
 
 ---
 
