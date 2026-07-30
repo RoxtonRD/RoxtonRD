@@ -53,7 +53,7 @@ A shipped personal project (v1.5): turn-based combat with visual feedback, dunge
 
 ## 📫 Contact
 
-- LinkedIn: [Click here](https://www.linkedin.com/in/roberto-pedroso-de-barros/)
+- LinkedIn: [Click here](https://www.linkedin.com/in/robertopbarros/)
 - Email: [roberto.barros@live.com](mailto:roberto.barros@live.com)
 - Portfolio: coming soon
 
